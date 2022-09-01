@@ -1,0 +1,40 @@
+Myeloid Gene Expression:
+
+Phenotype 206:
+QTLs that are also eQTLs:
+rs6206791
+QTLs that are not eQTLs:
+Not found.
+
+Phenotype 207:
+QTLs that are also eQTLs:
+Not found.
+QTLs that are not eQTLs:
+rs13479470, rs4165503
+
+Phenotype 210:
+QTLs that are also eQTLs:
+Not found.
+QTLs that are not eQTLs:
+Not found.
+
+Stem Gene Expression:
+
+Phenotype 206:
+QTLs that are also eQTLs:
+Not found.
+QTLs that are not eQTLs:
+rs6206791
+
+Phenotype 207:
+QTLs that are also eQTLs:
+Not found.
+QTLs that are not eQTLs:
+rs13479470, rs4165503
+
+Phenotype 210:
+QTLs that are also eQTLs:
+Not found.
+QTLs that are not eQTLs:
+Not found.
+
